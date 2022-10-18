@@ -21,6 +21,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/AviMuh"><img title="Maintainer" src="https://img.shields.io/aur/maintainer/avimuh/WangsafBotModif?style=for-the-badge&logo=github" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/IndonesianDev/whatsapp-bot"><img title="Stars" src="https://img.shields.io/github/stars/IndonesianDev/whatsapp-bot?color=black&style=flat-square" /></a>
   <a href="https://github.com/IndonesianDev/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/IndonesianDev/whatsapp-bot??color=pink&style=flat-square" /></a>
   <a href="https://github.com/IndonesianDev/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/IndonesianDev/whatsapp-bot??label=watchers&color=blue&style=flat-square" /></a> <br>
